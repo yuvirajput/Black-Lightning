@@ -128,4 +128,4 @@ python3 -m Black-Lightning
     [-] API_HASH :   You can get this value from https://my.telegram.org
     
 [+] The Lightning Bot will not work without setting the mandatory vars.
-```
+```h
